@@ -1,5 +1,5 @@
 
-# React.js starter boilerplate
+# Makefile React.js starter kit
 
 
 Simple React.js starter boilerplate with Webpack and GNU Make.

@@ -2,7 +2,7 @@
 # Makefile React.js starter kit
 
 
-Simple React.js starter boilerplate with Webpack and GNU Make.
+Simple React.js starter kit with GNU Make and Webpack.
 
 Tested with node.js 5 and npm 3.
 

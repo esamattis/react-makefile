@@ -4,12 +4,19 @@
 
 Simple React.js starter boilerplate with Webpack and GNU Make.
 
+Tested with node.js 5 and npm 3.
+
+
+Clone this repo and cd into it
+
+    git clone https://github.com/epeli/react-starter
+    cd react-starter
 
 Start by installing all the deps from `package.json`.
 
     npm install
 
-Build production distribution using
+Build production distribution
 
     make js
 
@@ -23,7 +30,7 @@ For development you can use
 
     make js-server
 
-Which will serve the files, build the and reload browsers on file changes
-also available at <http://localhost:8080/>
+Which will serve the files, build the js bundle and automatially reload
+browsers on file changes. Also available at <http://localhost:8080/>
 
 Start hacking on `index.js`

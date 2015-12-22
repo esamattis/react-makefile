@@ -1,5 +1,5 @@
 export PATH := node_modules/.bin:$(PATH)
-export SHELL := /bin/bash # Require for OS X for some reason
+export SHELL := /bin/bash # Required for OS X for some reason
 
 all: npm js
 

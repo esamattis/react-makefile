@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Esa-Matti Suuronen",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "babel-core": "^6.3.17",
     "babel-loader": "^6.2.0",

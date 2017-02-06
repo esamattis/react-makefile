@@ -1,10 +1,10 @@
 export PATH := node_modules/.bin:$(PATH)
 export SHELL := /bin/bash # Required for OS X for some reason
 
-all: npm js
+all: yarn js
 
 npm:
-	npm install
+	yarn
 
 js:
 	NODE_ENV=production webpack -p --progress

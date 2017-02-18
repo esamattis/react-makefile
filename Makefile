@@ -3,7 +3,7 @@ export SHELL := /bin/bash # Required for OS X for some reason
 bundle = dist/bundle.js
 
 
-all: yarn js
+all: dist-changes-hide yarn js
 
 yarn:
 	yarn

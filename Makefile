@@ -5,7 +5,7 @@ bundle = dist/bundle.js
 
 all: yarn js
 
-npm:
+yarn:
 	yarn
 
 js:

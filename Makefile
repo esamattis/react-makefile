@@ -17,10 +17,6 @@ server:
 js-server:
 	webpack-dev-server -d --progress --inline
 	
-
-js-watch:
-	webpack -d --progress --watch
-
 dist-changes-hide:
 	git update-index --assume-unchanged $(bundle)
 

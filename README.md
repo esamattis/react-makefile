@@ -22,6 +22,10 @@ Start by installing all the deps from `package.json`
 
     make
 
+Add `yarn.lock` to git
+
+    git add yarn.lock && git commit -m "Add yarn.lock"
+
 ## Hacking
 
 Start development server

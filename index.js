@@ -1,11 +1,10 @@
-
 import React from "react"; // must be in scope when using JSX
 import ReactDOM from "react-dom";
 
 
 function HelloWorld() {
     return (
-        <div>React.js Hello Wordl!</div>
+        <div>React.js Hello World!</div>
     );
 }
 

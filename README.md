@@ -32,7 +32,7 @@ Start development server
 
     make js-server
 
-and open <http://localhost:8080/> and hack on `index.js`
+and open <http://localhost:8080/> and hack on `src/index.js`
 
 ## Production
 

@@ -8,7 +8,7 @@ var gitMessageFull = execSync("git log -1 --pretty=%B").toString();
 var gitDate = execSync("git log -1 --format=%cd ").toString();
 
 var config = {
-    entry: "./index.js",
+    entry: "./src/index.js",
     output: {
         path: __dirname + "/dist",
         filename: "bundle.js",

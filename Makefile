@@ -10,7 +10,7 @@ js:
 	NODE_ENV=production webpack -p --progress
 
 server:
-	serve -p 8080
+	python -m SimpleHTTPServer 8080
 
 js-server:
 	webpack-dev-server -d --progress --inline

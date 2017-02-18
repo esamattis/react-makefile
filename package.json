@@ -1,12 +1,9 @@
 {
-  "name": "react-makefile",
+  "name": "TODO",
   "version": "0.0.0",
-  "description": "React Makefile",
+  "description": "TODO",
   "repository": "TODO",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Esa-Matti Suuronen",
   "license": "UNLICENSED",
   "dependencies": {

@@ -2,7 +2,7 @@
 # Makefile boilerplate for React.js
 
 
-Simple React.js starter kit with GNU Make and Webpack.
+Simple React.js starter kit with GNU Make and Webpack 2.
 
 Tested with node.js 7 and yarn 0.20.3
 
@@ -47,6 +47,5 @@ Commit the production bundle with
 
     make commit-bundle
 
-Using this task is required because bundle changes are hidden from git using
-`--assume-unchanged`.
+Using this task is required for commiting the bundle changes because the bundle changes are hidden from git using `--assume-unchanged`.
 

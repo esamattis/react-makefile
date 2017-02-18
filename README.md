@@ -51,5 +51,5 @@ Commit the production bundle with
 
     make commit-bundle
 
-Using this task is required for commiting the bundle changes because the bundle changes are hidden from git using `--assume-unchanged`.
+Using this task is required for commiting the bundle changes because the bundle the changes are hidden from git using `--assume-unchanged`.
 

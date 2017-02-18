@@ -2,7 +2,7 @@
 # Makefile boilerplate for React.js
 
 
-Simple React.js starter kit with GNU Make and Webpack 2.
+Simple React.js boilerplate for GNU Make and Webpack 2.
 
 Tested with node.js 7 and yarn 0.20.3
 

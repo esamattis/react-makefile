@@ -19,7 +19,10 @@ Clone this repo and cd into it
 
 You might want to reset git history
 
-    rm -rf .git && git init
+    rm -rf .git
+    git init
+    git add .
+    git commit -m initial
 
 Start by installing all the deps from `package.json`
 

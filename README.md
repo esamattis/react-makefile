@@ -15,7 +15,11 @@ Install yarn using
 Clone this repo and cd into it
 
     git clone https://github.com/epeli/react-makefile myapp
-    cd react-starter
+    cd myapp
+
+You might want to reset git history
+
+    rm -rf .git && git init
 
 Start by installing all the deps from `package.json`
 

@@ -4,7 +4,6 @@
 
 Simple React.js boilerplate for GNU Make and Webpack 2.
 
-Tested with node.js 7 and yarn 0.20.3
 
 
 ## Install
@@ -15,12 +14,12 @@ Install yarn using
 
 Clone this repo and cd into it
 
-    git clone https://github.com/epeli/react-starter
+    git clone https://github.com/epeli/react-makefile myapp
     cd react-starter
 
 Start by installing all the deps from `package.json`
 
-    make
+    yarn
 
 Add `yarn.lock` to git
 

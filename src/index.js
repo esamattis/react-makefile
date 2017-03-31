@@ -1,4 +1,4 @@
-import React from "react"; // must be in scope when using JSX
+import React from "react";
 import ReactDOM from "react-dom";
 
 console.log("git date", GIT_COMMIT_DATE);

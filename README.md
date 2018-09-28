@@ -1,6 +1,8 @@
 
 # Makefile boilerplate for React.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/epeli/react-makefile.svg)](https://greenkeeper.io/)
+
 
 Simple React.js boilerplate for GNU Make and Webpack 2.
 
